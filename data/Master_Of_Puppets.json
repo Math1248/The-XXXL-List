@@ -1,0 +1,24 @@
+{
+    "id": 136396693,
+    "name": "Master Of Puppets",
+    "author": "TheZinkYT",
+    "creators": ["Zeroya and more"],
+    "verifier": "Scotchtape",
+    "verification": "https://www.youtube.com/watch?v=JBZ-lrBgkl0",
+    "percentToQualify": 63,
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "agonom",
+            "link": "https://www.youtube.com/watch?v=eW-57MJ7QJo",
+            "percent": 100,
+            "hz": 240
+        }
+         {
+            "user": "StarXV",
+            "link": "https://www.youtube.com/watch?v=7ulq-w8-QBs",
+            "percent": 84,
+            "hz": 240
+        }
+    ]
+}
